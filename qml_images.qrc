@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="qml_images">
+        <file>video.png</file>
+        <file>face_recognition.png</file>
+    </qresource>
+</RCC>
